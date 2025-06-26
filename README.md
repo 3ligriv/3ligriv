@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3ligriv
 - 👀 I’m interested in various development, C++, C, C#, javascript,...
-- 🌱 I’m currently learning fabric.js
+- 🌱 I’m currently learning nomad
 - 💞️ I’m looking to collaborate on an interactive history timeline webapp project
 
 <!---
